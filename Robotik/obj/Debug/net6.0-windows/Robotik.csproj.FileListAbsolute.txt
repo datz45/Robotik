@@ -1,0 +1,17 @@
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\bin\Debug\net6.0-windows\Robotik.exe
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\bin\Debug\net6.0-windows\Robotik.deps.json
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\bin\Debug\net6.0-windows\Robotik.runtimeconfig.json
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\bin\Debug\net6.0-windows\Robotik.dll
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\bin\Debug\net6.0-windows\Robotik.pdb
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\obj\Debug\net6.0-windows\Robotik.csproj.AssemblyReference.cache
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\obj\Debug\net6.0-windows\Robotik.Form1.resources
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\obj\Debug\net6.0-windows\Robotik.csproj.GenerateResource.cache
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\obj\Debug\net6.0-windows\Robotik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\obj\Debug\net6.0-windows\Robotik.AssemblyInfoInputs.cache
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\obj\Debug\net6.0-windows\Robotik.AssemblyInfo.cs
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\obj\Debug\net6.0-windows\Robotik.csproj.CoreCompileInputs.cache
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\obj\Debug\net6.0-windows\Robotik.dll
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\obj\Debug\net6.0-windows\refint\Robotik.dll
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\obj\Debug\net6.0-windows\Robotik.pdb
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\obj\Debug\net6.0-windows\Robotik.genruntimeconfig.cache
+D:\Fabian\Programmieren_2\C#\Robotik\Robotik\obj\Debug\net6.0-windows\ref\Robotik.dll
